@@ -7214,4 +7214,10 @@ button.close {
         display: none !important;
     }
 }
+.frontPageHeader {
+    color: #ffffff;
+}
+.frontPageInfo {
+    color: #ffffff;
+}
 /*# sourceMappingURL=bootstrap.min.css.map */
